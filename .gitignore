@@ -1,0 +1,7 @@
+
+# Ignore the .idea folder and its contents
+.idea/
+
+# Ignore request_history.db and cotacao.txt
+request_history.db
+cotacao.txt
